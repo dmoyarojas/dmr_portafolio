@@ -12,7 +12,7 @@ const projects = [
     id: 1,
     title: "Plataforma E-commerce Amora Joyeria",
     description: "Plataforma de compra rápida de joyeria con API de Whatsapp",
-    image: "/public/amora.jpg",
+    image: "/amora.jpg",
     tags: ["React", "Node.js", "Tailwind CSS", "TypeScript"],
     category: "Full-Stack",
     repoURL: "https://github.com/dmoyarojas/Diseotiendawebjoyera",
