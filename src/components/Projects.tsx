@@ -37,7 +37,7 @@ const projects = [
     description:
       "Desarrollo total de un sistema para gestionar inventarios y ventas para la tienda de ropa Blande Store",
     image:
-      "/public/sistemaBlnde.jpg",
+      "/sistemaBlnde.jpg",
     tags: ["MySQL", "Java", "SpringBoot", "Thymeleaf", "Supabase"],
     category: "Escritorio",
     repoURL: "https://github.com/dmoyarojas/BlandeStoreAPP",
@@ -65,7 +65,7 @@ const projects = [
     description:
       "Recomendador de recetas peruanas basado en los ingredientes que tengas en casa.",
     image:
-      "/public/sistemadeRecetas.jpg",
+      "/sistemadeRecetas.jpg",
     tags: ["Django", "Python", "Figma", "SQLite"],
     category: "",
     details: {
